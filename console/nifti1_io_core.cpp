@@ -2,12 +2,12 @@
 #include <math.h>
 #include <stdlib.h>
 #include <sys/stat.h>
-#include <stdbool.h>
+//#include <stdbool.h>
 #include <ctype.h>
 #include <string.h>
 #include <stddef.h>
 #include <float.h>
-#include <unistd.h>
+//#include <unistd.h>
 #include <stdio.h>
 
 

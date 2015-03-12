@@ -1,16 +1,17 @@
 #include "nifti1.h"
 #include "nifti1_io_core.h"
 #include "nii_ortho.h"
+#include "_dcm2nii.h"
 #include <math.h>
-#include <stdint.h>
+//#include <stdint.h>
 #include <stdlib.h>
 #include <sys/stat.h>
-#include <stdbool.h>
+//#include <stdbool.h>
 #include <ctype.h>
 #include <string.h>
 #include <stddef.h>
 #include <float.h>
-#include <unistd.h>
+//#include <unistd.h>
 #include <stdio.h>
 //#define MY_DEBUG //verbose text reporting
 

@@ -8,7 +8,7 @@
 extern "C" {
 #endif
     
-#include <stdbool.h>
+//#include <stdbool.h>
 #include <string.h>
     
 typedef struct {                   /** 4x4 matrix struct **/
