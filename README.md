@@ -1,6 +1,9 @@
 
 Versions
 
+11-Mar-2015
+ - Fix compatible problems with MSVC
+
 1-Jan-2015
  - Images separated based on TE (fieldmaps)
  - Support for JPEG2000 using OpenJPEG or Jasper libraries
